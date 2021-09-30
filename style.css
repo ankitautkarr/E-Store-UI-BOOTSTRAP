@@ -1,0 +1,18 @@
+
+#logo{
+    float: left;
+    position: relative;
+    margin: 10px 15px 15px 10px;
+    height: 40px;
+    width: 40px;
+}
+
+.jumbotron{
+    text-align: center;
+    background-color: rgb(206, 206, 206)
+
+}
+
+.footer{
+    color: white;
+}
